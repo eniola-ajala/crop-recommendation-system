@@ -10,3 +10,4 @@ streamlit
 shap
 earthengine-api
 plotly
+streamlit-folium
